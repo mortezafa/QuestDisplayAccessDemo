@@ -1,0 +1,8 @@
+/Users/mortezafaraji/Desktop/coding/QuestDisplayAccessDemo/.utmp/RelWithDebInfo/6v4b5y14/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/mortezafaraji/Desktop/coding/QuestDisplayAccessDemo/.utmp/RelWithDebInfo/6v4b5y14/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/mortezafaraji/Desktop/coding/QuestDisplayAccessDemo/.utmp/RelWithDebInfo/6v4b5y14/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/mortezafaraji/Desktop/coding/QuestDisplayAccessDemo/.utmp/RelWithDebInfo/6v4b5y14/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/mortezafaraji/Desktop/coding/QuestDisplayAccessDemo/.utmp/RelWithDebInfo/6v4b5y14/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+/Users/mortezafaraji/Desktop/coding/QuestDisplayAccessDemo/.utmp/RelWithDebInfo/6v4b5y14/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/mortezafaraji/Desktop/coding/QuestDisplayAccessDemo/.utmp/RelWithDebInfo/6v4b5y14/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/mortezafaraji/Desktop/coding/QuestDisplayAccessDemo/.utmp/RelWithDebInfo/6v4b5y14/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
