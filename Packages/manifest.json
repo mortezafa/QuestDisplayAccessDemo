@@ -3,7 +3,7 @@
     "com.meta.xr.sdk.core": "69.0.1",
     "com.meta.xr.sdk.interaction": "68.0.1",
     "com.meta.xr.sdk.interaction.ovr": "69.0.2",
-    "com.srcnalt.openai-unity": "https://github.com/srcnalt/OpenAI-Unity.git",
+    "com.openai.unity": "8.4.4",
     "com.unity.collab-proxy": "2.5.2",
     "com.unity.feature.development": "1.0.2",
     "com.unity.mobile.android-logcat": "1.4.3",
@@ -53,6 +53,15 @@
       "scopes": [
         "jp.keijiro"
       ]
+    },
+    {
+      "name": "OpenUPM",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.openai",
+        "com.utilities"
+      ],
+      "overrideBuiltIns": false
     }
   ]
 }
